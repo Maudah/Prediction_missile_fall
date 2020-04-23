@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="PL.FallsImagesUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PL"
+             mc:Ignorable="d" 
+            >
+
+
+    <Grid >
+
+        <ListBox x:Name="listbox1" ItemsSource="{Binding Falls}" HorizontalAlignment="Left"   VerticalAlignment="Top"  Grid.ColumnSpan="2" Grid.Column="2" IsSynchronizedWithCurrentItem="True" SelectionChanged="Listbox1_SelectionChanged">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel x:Name="StackItems" Orientation="Horizontal"  >
+
+                        <Image x:Name="ItemImage" Source ="{Binding FallImage}" ToolTip="{Binding ElementName=ItemFallId, Path=Content}" AutomationProperties.HelpText="" Stretch="Fill" MouseDown="Image_MouseUp" Width="140" MouseEnter="Image_MouseEnter" MouseLeave="Image_MouseLeave" Margin="0,5" HorizontalAlignment="Center">
+                        </Image>
+                        <Label x:Name="ItemFallId" Visibility="Hidden" Content="{Binding FallId}"  Width="0" MouseDown="ItemFallId_MouseDown" >
+
+                        </Label>
+
+
+
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</UserControl>

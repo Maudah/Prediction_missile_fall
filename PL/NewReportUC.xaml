@@ -1,0 +1,88 @@
+﻿<UserControl x:Class="PL.NewReportUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PL"
+             xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" 
+        >
+    <materialDesign:TransitioningContent OpeningEffect="{materialDesign:TransitionEffect SlideInFromRight}">
+        <materialDesign:Card   HorizontalAlignment="Left"
+                            >
+
+            <StackPanel Orientation="Vertical">
+                <Grid Margin="10" x:Name="Grid1" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Label VerticalAlignment="Center" Grid.Row="0" Margin="3,2" Grid.Column="0" Content="Address:" FontSize="11" />
+                    <local:GeoLocationAutoComplete x:Name="AddressTextBox" 
+                                                       Width="250"
+                                                      VerticalAlignment="Center"
+                                                      Grid.Row="0" Margin="3,2" HorizontalAlignment="Left"
+                                                      Grid.Column="1" FontSize="11" />
+                    <Label VerticalAlignment="Center" Grid.Row="1" Margin="3,2" Grid.Column="0" Content="Name:" FontSize="11" />
+                    <TextBox x:Name="NameTextBox" TextChanged="SaveEnableCheck"
+                              Width="250" VerticalAlignment="Center"
+                             Text="{Binding PersonName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}"
+                             Grid.Row="1" Margin="3,2" HorizontalAlignment="Left" Grid.Column="1" FontSize="11" />
+                    <Label VerticalAlignment="Center" Grid.Row="2" Margin="3,2" Grid.Column="0"
+                           Content="Noise Intensity:(1-10)" FontSize="11" />
+                    <TextBox x:Name="NoiseIntensityTextBox" TextChanged="SaveEnableCheck"
+                         PreviewTextInput="NumberValidationTextBox1"
+                              Width="250"
+                             VerticalAlignment="Center"
+                             Text="{Binding ReportIntensity, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}"
+                             Grid.Row="2" Margin="3,2" HorizontalAlignment="Left" Grid.Column="1" KeyUp="NoiseIntensityTextBox_KeyUp" FontSize="11" />
+                    <Label VerticalAlignment="Center" Grid.Row="3" Margin="3,2" Grid.Column="0"
+                           Content="Num Of _Explosions:" FontSize="11" />
+                    <TextBox x:Name="NumOfExplosionsTextBox" TextChanged="SaveEnableCheck"
+                         PreviewTextInput="NumberValidationTextBox"
+                              Width="250"
+                             VerticalAlignment="Center"
+                             Text="{Binding NumOfExplosions, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}"
+                             Grid.Row="3" Margin="3,2" HorizontalAlignment="Left" Grid.Column="1" FontSize="11" />
+                    <Label VerticalAlignment="Center" Grid.Row="4" Margin="3,2" Grid.Column="0" Content="Time:" FontSize="11" />
+                    <!--<DatePicker x:Name="TimeDatePicker" VerticalAlignment="Center" Width="250" SelectedDate="{Binding Report.Time, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="4" Margin="3" HorizontalAlignment="Left" Grid.Column="1"/>-->
+                    <xctk:DateTimePicker x:Name="TimeDatePicker" CalendarWidth="400"
+                                         VerticalAlignment="Center" Width="250"
+                                          Format="Custom" FormatString="MM/dd/yyyy hh:mmtt"
+                                         
+                                         Value="{Binding ReportTime, NotifyOnValidationError=true, ValidatesOnExceptions=true}"
+                                         Grid.Row="4" Margin="3,2,3,-1" HorizontalAlignment="Left" Grid.Column="1" FontSize="11" DataContextChanged="TimeDatePicker_DataContextChanged" ContextMenuOpening="TimeDatePicker_ContextMenuOpening" DragEnter="TimeDatePicker_DragEnter" />
+                </Grid>
+                <Separator />
+                <DockPanel Margin="3" x:Name="ActionsPanel">
+                    <local:ActionButton 
+                 x:Name="SaveButton"
+                   DockPanel.Dock="Right"
+                   Text="SAVE"
+                   State="origin"
+                   Icon="ContentSave"
+                   Style="{StaticResource MaterialDesignRaisedButton}" ButtonClick="SaveButton_ButtonClick"
+                   />
+                    <local:ActionButton 
+                 x:Name="CancelButton"
+                   DockPanel.Dock="Right"
+                        HorizontalAlignment="Right"
+                   Text="CANCEL"
+                   State="flat"
+                        Style="{StaticResource MaterialDesignFlatButton}"
+                   Icon="Cancel" Loaded="CancelButton_Loaded" ButtonClick="CancelButton_ButtonClick"
+                   />
+                </DockPanel>
+            </StackPanel>
+        </materialDesign:Card>
+    </materialDesign:TransitioningContent>
+</UserControl>

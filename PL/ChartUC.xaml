@@ -1,0 +1,32 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PL"
+             
+             xmlns:Wpf="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+    xmlns:lvc="clr-namespace:AjaxControlToolkit;assembly=AjaxControlToolkit"
+    xmlns:chartingToolkit="clr-namespace:LiveCharts.Wpf.Charts.Base;assembly=LiveCharts.Wpf" x:Class="PL.ChartUC"
+             mc:Ignorable="d" 
+           >
+
+    <Grid x:Name="MainGrid" Background="#FFB8CBDA">
+        <Grid.Resources>
+            <local:WidthConverter 
+                x:Key="ErrorRangeConverter"/>
+        </Grid.Resources>
+        <StackPanel Height="60" Width="130" Orientation="Vertical" VerticalAlignment="Top" HorizontalAlignment="Right">
+            <Slider x:Name="ErrorRangeSlider" Maximum="50" TickPlacement="BottomRight" TickFrequency="5" Width="100" Foreground="#FF1D1E1F" ValueChanged="ErrorRangeSlider_ValueChanged"/>
+            <Label Name="RangeLable" FontSize="10" VerticalAlignment="Center" Content="{Binding ElementName=ErrorRangeSlider, Path=Value, 
+                                 Converter={StaticResource ErrorRangeConverter}}" HorizontalAlignment="Center" Width="80"  >
+
+            </Label>
+        </StackPanel>
+        <Wpf:PieChart x:Name ="MyPieChart" Series="{Binding Path=seriesCol}" LegendLocation="Bottom" Hoverable="False" Margin="0,70,0,0" >
+
+        </Wpf:PieChart>
+
+
+    </Grid>
+</UserControl>

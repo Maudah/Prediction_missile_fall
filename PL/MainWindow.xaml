@@ -1,0 +1,55 @@
+﻿<Window xmlns:xcad="http://schemas.xceed.com/wpf/xaml/avalondock"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"  x:Name="MainWindow1" x:Class="PL.MainWindow"
+        mc:Ignorable="d"
+        Title="Missile Fall Prediction"  WindowState="Maximized" Height="600" Width="900">
+
+    <TabControl Background="#e7e6df" FontSize="15"   FontFamily="Yu Gothic" Margin="0,20,0,0"  >
+        <TabItem Header="Add Report or real fall" FontWeight="Bold" Foreground="#003053"  >
+           
+            <StackPanel Orientation="Horizontal">
+                <StackPanel Orientation="Vertical">
+                    <Label  Content="Add reoprt" Margin="0,20,0,0" FontSize="18" FontWeight="Bold" Background="#003053" Foreground="#e7e6df" Width="414" />
+                    <local:NewReportUC x:Name="NewReportElement" Margin="10,5,10,10"/>
+                    <Label  Content="Add Fall" Margin="0,10,0,0" FontSize="18" FontWeight="Bold" Background="#003053" Foreground="#e7e6df" />
+
+                    <local:NewFallUC Margin="10,5,10,10" Width="{Binding ElementName=NewReportElement, Path=Width}"/>
+                </StackPanel>
+                <Grid>
+                    <local:GoogleMapsUC x:Name="MainMap" Width="1000"/>
+
+                    <Ellipse  HorizontalAlignment="Left" Height="40" Margin="9,9,0,0" VerticalAlignment="Top" Width="40" PreviewMouseUp="Ellipse_PreviewMouseUp">
+                        <Ellipse.Fill>
+                            <ImageBrush ImageSource="images/images.png" />
+                        </Ellipse.Fill>
+                    </Ellipse>
+                </Grid>
+                <Image Width="100"/>
+
+            </StackPanel>
+
+        </TabItem>
+        <TabItem Header="Statistics" FontWeight="Bold" Foreground="#003053" GotFocus="TabItem_GotFocus_1" >
+            <StackPanel Orientation="Vertical"  >
+                <StackPanel Orientation="Horizontal">
+                    <local:StatisticsUC x:Name="StatisticsElement" Height="151" HorizontalAlignment="Left" Margin="50,30,50,20" />
+                    <local:ChartUC  Height="220" x:Name="PieChartElement" Width="301" HorizontalAlignment="Right" Margin="50,30" />
+
+                </StackPanel>
+                <local:GraphUC x:Name="GraphElement" />
+            </StackPanel>
+        </TabItem>
+        <TabItem Header="Falls information" FontWeight="Bold" Foreground="#003053" GotFocus="TabItem_GotFocus">
+            <StackPanel Orientation="Horizontal">
+                <local:FallsImagesUC x:Name="fallImageElement" Width="250"/>
+                <StackPanel Orientation="Vertical" />
+                <local:GoogleMapsUC x:Name="secondMapElement" Margin="0,0,0,-0.333" Width="1075" />
+            </StackPanel>
+        </TabItem>  
+    </TabControl>
+
+</Window>

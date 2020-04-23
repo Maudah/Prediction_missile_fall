@@ -1,0 +1,1491 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Nequeo.Wpf.Toolkit</name>
+    </assembly>
+    <members>
+        <member name="T:Nequeo.Wpf.Toolkit.BusyIndicator">
+            <summary>
+            A control to provide a visual indicator when an application is busy.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.BusyIndicator._displayAfterTimer">
+            <summary>
+            Timer used to delay the initial display and avoid flickering.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.BusyIndicator.OnApplyTemplate">
+            <summary>
+            Overrides the OnApplyTemplate method.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.BusyIndicator.IsContentVisible">
+            <summary>
+            Gets or sets a value indicating whether the BusyContent is visible.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.BusyIndicator.IsBusyProperty">
+            <summary>
+            Identifies the IsBusy dependency property.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.BusyIndicator.IsBusy">
+            <summary>
+            Gets or sets a value indicating whether the busy indicator should show.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.BusyIndicator.OnIsBusyChanged(System.Windows.DependencyObject,System.Windows.DependencyPropertyChangedEventArgs)">
+            <summary>
+            IsBusyProperty property changed handler.
+            </summary>
+            <param name="d">BusyIndicator that changed its IsBusy.</param>
+            <param name="e">Event arguments.</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.BusyIndicator.OnIsBusyChanged(System.Windows.DependencyPropertyChangedEventArgs)">
+            <summary>
+            IsBusyProperty property changed handler.
+            </summary>
+            <param name="e">Event arguments.</param>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.BusyIndicator.BusyContentProperty">
+            <summary>
+            Identifies the BusyContent dependency property.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.BusyIndicator.BusyContent">
+            <summary>
+            Gets or sets a value indicating the busy content to display to the user.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.BusyIndicator.BusyContentTemplateProperty">
+            <summary>
+            Identifies the BusyTemplate dependency property.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.BusyIndicator.BusyContentTemplate">
+            <summary>
+            Gets or sets a value indicating the template to use for displaying the busy content to the user.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.BusyIndicator.DisplayAfterProperty">
+            <summary>
+            Identifies the DisplayAfter dependency property.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.BusyIndicator.DisplayAfter">
+            <summary>
+            Gets or sets a value indicating how long to delay before displaying the busy content.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.BusyIndicator.FocusAfterBusyProperty">
+            <summary>
+            Identifies the FocusAfterBusy dependency property.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.BusyIndicator.FocusAfterBusy">
+            <summary>
+            Gets or sets a Control that should get focus when the busy indicator disapears.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.BusyIndicator.OverlayStyleProperty">
+            <summary>
+            Identifies the OverlayStyle dependency property.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.BusyIndicator.OverlayStyle">
+            <summary>
+            Gets or sets a value indicating the style to use for the overlay.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.BusyIndicator.ProgressBarStyleProperty">
+            <summary>
+            Identifies the ProgressBarStyle dependency property.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.BusyIndicator.ProgressBarStyle">
+            <summary>
+            Gets or sets a value indicating the style to use for the progress bar.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.BusyIndicator.DisplayAfterTimerElapsed(System.Object,System.EventArgs)">
+            <summary>
+            Handler for the DisplayAfterTimer.
+            </summary>
+            <param name="sender">Event sender.</param>
+            <param name="e">Event arguments.</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.BusyIndicator.ChangeVisualState(System.Boolean)">
+            <summary>
+            Changes the control's visual state(s).
+            </summary>
+            <param name="useTransitions">True if state transitions should be used.</param>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.VisualStates.GroupBusyStatus">
+            <summary>
+            Busyness group name.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.VisualStates.StateBusy">
+            <summary>
+            Busy state for BusyIndicator.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.VisualStates.StateIdle">
+            <summary>
+            Idle state for BusyIndicator.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.VisualStates.GroupVisibility">
+            <summary>
+            BusyDisplay group.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.VisualStates.StateVisible">
+            <summary>
+            Visible state name for BusyIndicator.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.VisualStates.StateHidden">
+            <summary>
+            Hidden state name for BusyIndicator.
+            </summary>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.ButtonSpinner">
+            <summary>
+            Represents a spinner control that includes two Buttons.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.ButtonSpinner.ContentProperty">
+            <summary>
+            Identifies the Content dependency property.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.ButtonSpinner.OnContentPropertyChanged(System.Windows.DependencyObject,System.Windows.DependencyPropertyChangedEventArgs)">
+            <summary>
+            ContentProperty property changed handler.
+            </summary>
+            <param name="d">ButtonSpinner that changed its Content.</param>
+            <param name="e">Event arguments.</param>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.ButtonSpinner.DecreaseButton">
+            <summary>
+            Gets or sets the DecreaseButton template part.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.ButtonSpinner.IncreaseButton">
+            <summary>
+            Gets or sets the IncreaseButton template part.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.ButtonSpinner.OnMouseLeftButtonUp(System.Windows.Input.MouseButtonEventArgs)">
+            <summary>
+            Cancel LeftMouseButtonUp events originating from a button that has
+            been changed to disabled.
+            </summary>
+            <param name="e">The data for the event.</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.ButtonSpinner.OnValidSpinDirectionChanged(Nequeo.Wpf.Toolkit.ValidSpinDirections,Nequeo.Wpf.Toolkit.ValidSpinDirections)">
+            <summary>
+            Called when valid spin direction changed.
+            </summary>
+            <param name="oldValue">The old value.</param>
+            <param name="newValue">The new value.</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.ButtonSpinner.OnButtonClick(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handle click event of IncreaseButton and DecreaseButton template parts,
+            translating Click to appropriate Spin event.
+            </summary>
+            <param name="sender">Event sender, should be either IncreaseButton or DecreaseButton template part.</param>
+            <param name="e">Event args.</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.ButtonSpinner.OnContentChanged(System.Object,System.Object)">
+            <summary>
+            Occurs when the Content property value changed.
+            </summary>
+            <param name="oldValue">The old value of the Content property.</param>
+            <param name="newValue">The new value of the Content property.</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.ButtonSpinner.SetButtonUsage">
+            <summary>
+            Disables or enables the buttons based on the valid spin direction.
+            </summary>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.SpinDirection">
+            <summary>
+            Represents spin directions that could be initiated by the end-user.
+            </summary>
+            <QualityBand>Preview</QualityBand>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.SpinDirection.Increase">
+            <summary>
+            Represents a spin initiated by the end-user in order to Increase a value.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.SpinDirection.Decrease">
+            <summary>
+            Represents a spin initiated by the end-user in order to Decrease a value.
+            </summary>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.SpinEventArgs">
+            <summary>
+            Provides data for the Spinner.Spin event.
+            </summary>
+            <QualityBand>Preview</QualityBand>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.SpinEventArgs.Direction">
+            <summary>
+            Gets the SpinDirection for the spin that has been initiated by the 
+            end-user.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.SpinEventArgs.UsingMouseWheel">
+            <summary>
+            Get or set whheter the spin event originated from a mouse wheel event.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.SpinEventArgs.#ctor(Nequeo.Wpf.Toolkit.SpinDirection)">
+            <summary>
+            Initializes a new instance of the SpinEventArgs class.
+            </summary>
+            <param name="direction">Spin direction.</param>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.Spinner">
+            <summary>
+            Base class for controls that represents controls that can spin.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.Spinner.ValidSpinDirectionProperty">
+            <summary>
+            Identifies the ValidSpinDirection dependency property.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Spinner.OnValidSpinDirectionPropertyChanged(System.Windows.DependencyObject,System.Windows.DependencyPropertyChangedEventArgs)">
+            <summary>
+            ValidSpinDirectionProperty property changed handler.
+            </summary>
+            <param name="d">ButtonSpinner that changed its ValidSpinDirection.</param>
+            <param name="e">Event arguments.</param>
+        </member>
+        <member name="E:Nequeo.Wpf.Toolkit.Spinner.Spin">
+            <summary>
+            Occurs when spinning is initiated by the end-user.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Spinner.#ctor">
+            <summary>
+            Initializes a new instance of the Spinner class.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Spinner.OnSpin(Nequeo.Wpf.Toolkit.SpinEventArgs)">
+            <summary>
+            Raises the OnSpin event when spinning is initiated by the end-user.
+            </summary>
+            <param name="e">Spin event args.</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Spinner.OnValidSpinDirectionChanged(Nequeo.Wpf.Toolkit.ValidSpinDirections,Nequeo.Wpf.Toolkit.ValidSpinDirections)">
+            <summary>
+            Called when valid spin direction changed.
+            </summary>
+            <param name="oldValue">The old value.</param>
+            <param name="newValue">The new value.</param>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.ValidSpinDirections">
+            <summary>
+            Represents spin directions that are valid.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.ValidSpinDirections.None">
+            <summary>
+            Can not increase nor decrease.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.ValidSpinDirections.Increase">
+            <summary>
+            Can increase.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.ValidSpinDirections.Decrease">
+            <summary>
+            Can decrease.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.ChildWindow.DialogResult">
+            <summary>
+            Gets or sets a value indicating whether the ChildWindow was accepted or canceled.
+            </summary>
+            <value>
+            True if the child window was accepted; false if the child window was
+            canceled. The default is null.
+            </value>
+        </member>
+        <member name="E:Nequeo.Wpf.Toolkit.ChildWindow.Closed">
+            <summary>
+            Occurs when the ChildWindow is closed.
+            </summary>
+        </member>
+        <member name="E:Nequeo.Wpf.Toolkit.ChildWindow.Closing">
+            <summary>
+            Occurs when the ChildWindow is closing.
+            </summary>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.CollectionControlDialog">
+            <summary>
+            Interaction logic for CollectionControlDialog.xaml
+            </summary>
+            <summary>
+            CollectionControlDialog
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.CollectionControlDialog.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.Converters.NewItemTypesComboBoxConverter">
+            <summary>
+            This multi-value converter is used in the CollectionControl template
+            to determine the list of possible new item types that will be shown in the combo box.
+            
+            If the second value (i.e., CollectionControl.NewItemTypes) is not null, this list will be used.
+            Otherwise, if the first value (i.e., CollectionControl.ItemsSourceType) is a "IList&lt;T&gt;"
+            type, the new item type list will contain "T".
+            
+            </summary>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.Core.CancelRoutedEventArgs">
+            <summary>
+            An event data class that allows to inform the sender that the handler wants to cancel
+            the ongoing action.
+            
+            The handler can set the "Cancel" property to false to cancel the action.
+            </summary>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.Core.Converters.ColorBlendConverter">
+            <summary>
+            This converter allow to blend two colors into one based on a specified ratio
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.Core.Converters.ColorBlendConverter.BlendedColorRatio">
+            <summary>
+            The ratio of the blended color. Must be between 0 and 1.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.Core.Converters.ColorBlendConverter.BlendedColor">
+            <summary>
+            The color to blend with the source color
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.Converters.ColorToSolidColorBrushConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            Converts a Color to a SolidColorBrush.
+            </summary>
+            <param name="value">The Color produced by the binding source.</param>
+            <param name="targetType">The type of the binding target property.</param>
+            <param name="parameter">The converter parameter to use.</param>
+            <param name="culture">The culture to use in the converter.</param>
+            <returns>
+            A converted SolidColorBrush. If the method returns null, the valid null value is used.
+            </returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.Converters.ColorToSolidColorBrushConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            Converts a SolidColorBrush to a Color.
+            </summary>
+            <remarks>Currently not used in toolkit, but provided for developer use in their own projects</remarks>
+            <param name="value">The SolidColorBrush that is produced by the binding target.</param>
+            <param name="targetType">The type to convert to.</param>
+            <param name="parameter">The converter parameter to use.</param>
+            <param name="culture">The culture to use in the converter.</param>
+            <returns>
+            A converted value. If the method returns null, the valid null value is used.
+            </returns>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.Core.Converters.WindowContentBorderMarginConverter">
+            <summary>
+            Sets the margin for the thumb grip, the top buttons, or for the content border in the WindowControl.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.Converters.WindowControlBackgroundConverter.Convert(System.Object[],System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            Used in the WindowContainer Template to calculate the resulting background brush
+            from the WindowBackground (values[0]) and WindowOpacity (values[1]) propreties.
+            </summary>
+            <param name="values"></param>
+            <param name="targetType"></param>
+            <param name="parameter"></param>
+            <param name="culture"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.Core.Media.WindowColors">
+            <summary>
+            Contains system colors and configurations that can be used by the control themes.
+            
+            Mainly extracted from the registry because theses values are not exposed by the standard .NET API.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.Core.Media.WindowColors.ColorizationColor">
+            <summary>
+            Relative to the \HKEY_CURRENT_USER\Software\Microsoft\Windows\DWM\ColorizationColor Registry key.
+            
+            Gets the window chrome color.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.Core.Media.WindowColors.ColorizationOpaqueBlend">
+            <summary>
+            Relative to the \HKEY_CURRENT_USER\Software\Microsoft\Windows\DWM\ColorizationOpaqueBlend Registry key:
+            
+            Gets whether transparency is disabled.
+            
+            Returns true if transparency is disabled; false otherwise.
+            </summary>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.Core.UIElementAdorner`1">
+            <summary>
+            An adorner that can display one and only one UIElement.  
+            That element can be a panel, which contains multiple other elements.
+            The element is added to the adorner's visual and logical trees, enabling it to 
+            particpate in dependency property value inheritance, amongst other things.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.UIElementAdorner`1.#ctor(System.Windows.UIElement)">
+            <summary>
+            Constructor. 
+            </summary>
+            <param name="adornedElement">The element to which the adorner will be bound.</param>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.Core.UIElementAdorner`1.Child">
+            <summary>
+            Gets/sets the child element hosted in the adorner.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.UIElementAdorner`1.GetDesiredTransform(System.Windows.Media.GeneralTransform)">
+            <summary>
+            Override.
+            </summary>
+            <param name="transform"></param>
+            <returns></returns>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.Core.UIElementAdorner`1.OffsetLeft">
+            <summary>
+            Gets/sets the horizontal offset of the adorner.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.UIElementAdorner`1.SetOffsets(System.Double,System.Double)">
+            <summary>
+            Updates the location of the adorner in one atomic operation.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.Core.UIElementAdorner`1.OffsetTop">
+            <summary>
+            Gets/sets the vertical offset of the adorner.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.UIElementAdorner`1.MeasureOverride(System.Windows.Size)">
+            <summary>
+            Override.
+            </summary>
+            <param name="constraint"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.UIElementAdorner`1.ArrangeOverride(System.Windows.Size)">
+            <summary>
+            Override.
+            </summary>
+            <param name="finalSize"></param>
+            <returns></returns>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.Core.UIElementAdorner`1.LogicalChildren">
+            <summary>
+            Override.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.UIElementAdorner`1.GetVisualChild(System.Int32)">
+            <summary>
+            Override.
+            </summary>
+            <param name="index"></param>
+            <returns></returns>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.Core.UIElementAdorner`1.VisualChildrenCount">
+            <summary>
+            Override.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.Utilities.ColorUtilities.ConvertRgbToHsv(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Converts an RGB color to an HSV color.
+            </summary>
+            <param name="r"></param>
+            <param name="b"></param>
+            <param name="g"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.Utilities.ColorUtilities.ConvertHsvToRgb(System.Double,System.Double,System.Double)">
+            <summary>
+             Converts an HSV color to an RGB color.
+            </summary>
+            <param name="h"></param>
+            <param name="s"></param>
+            <param name="v"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.Utilities.ColorUtilities.GenerateHsvSpectrum">
+            <summary>
+            Generates a list of colors with hues ranging from 0 360 and a saturation and value of 1. 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.Utilities.ReflectionHelper.ValidatePublicPropertyName(System.Object,System.String)">
+            <summary>
+            Check the existence of the specified public instance (i.e. non static) property against
+            the type of the specified source object. If the property is not defined by the type,
+            a debug assertion will fail. Typically used to validate the parameter of a 
+            RaisePropertyChanged method.
+            </summary>
+            <param name="sourceObject">The object for which the type will be checked.</param>
+            <param name="propertyName">The name of the property.</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.Utilities.ReflectionHelper.ValidatePropertyName(System.Object,System.String)">
+            <summary>
+            Check the existence of the specified instance (i.e. non static) property against
+            the type of the specified source object. If the property is not defined by the type,
+            a debug assertion will fail. Typically used to validate the parameter of a 
+            RaisePropertyChanged method.
+            </summary>
+            <param name="sourceObject">The object for which the type will be checked.</param>
+            <param name="propertyName">The name of the property.</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.Utilities.TreeHelper.GetParent(System.Windows.DependencyObject)">
+            <summary>
+            Tries its best to return the specified element's parent. It will 
+            try to find, in this order, the VisualParent, LogicalParent, LogicalTemplatedParent.
+            It only works for Visual, FrameworkElement or FrameworkContentElement.
+            </summary>
+            <param name="element">The element to which to return the parent. It will only 
+            work if element is a Visual, a FrameworkElement or a FrameworkContentElement.</param>
+            <remarks>If the logical parent is not found (Parent), we check the TemplatedParent
+            (see FrameworkElement.Parent documentation). But, we never actually witnessed
+            this situation.</remarks>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.Utilities.TreeHelper.FindParent``1(System.Windows.DependencyObject)">
+            <summary>
+            This will search for a parent of the specified type.
+            </summary>
+            <typeparam name="T">The type of the element to find</typeparam>
+            <param name="startingObject">The node where the search begins. This element is not checked.</param>
+            <returns>Returns the found element. Null if nothing is found.</returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.Utilities.TreeHelper.FindParent``1(System.Windows.DependencyObject,System.Boolean)">
+            <summary>
+            This will search for a parent of the specified type.
+            </summary>
+            <typeparam name="T">The type of the element to find</typeparam>
+            <param name="startingObject">The node where the search begins.</param>
+            <param name="checkStartingObject">Should the specified startingObject be checked first.</param>
+            <returns>Returns the found element. Null if nothing is found.</returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.Utilities.TreeHelper.FindParent``1(System.Windows.DependencyObject,System.Boolean,System.Func{``0,System.Boolean})">
+            <summary>
+            This will search for a parent of the specified type.
+            </summary>
+            <typeparam name="T">The type of the element to find</typeparam>
+            <param name="startingObject">The node where the search begins.</param>
+            <param name="checkStartingObject">Should the specified startingObject be checked first.</param>
+            <param name="additionalCheck">Provide a callback to check additional properties 
+            of the found elements. Can be left Null if no additional criteria are needed.</param>
+            <returns>Returns the found element. Null if nothing is found.</returns>
+            <example>Button button = TreeHelper.FindParent&lt;Button&gt;( this, foundChild => foundChild.Focusable );</example>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.Utilities.TreeHelper.FindChild``1(System.Windows.DependencyObject)">
+            <summary>
+            This will search for a child of the specified type. The search is performed 
+            hierarchically, breadth first (as opposed to depth first).
+            </summary>
+            <typeparam name="T">The type of the element to find</typeparam>
+            <param name="parent">The root of the tree to search for. This element itself is not checked.</param>
+            <returns>Returns the found element. Null if nothing is found.</returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.Utilities.TreeHelper.FindChild``1(System.Windows.DependencyObject,System.Func{``0,System.Boolean})">
+            <summary>
+            This will search for a child of the specified type. The search is performed 
+            hierarchically, breadth first (as opposed to depth first).
+            </summary>
+            <typeparam name="T">The type of the element to find</typeparam>
+            <param name="parent">The root of the tree to search for. This element itself is not checked.</param>
+            <param name="additionalCheck">Provide a callback to check additional properties 
+            of the found elements. Can be left Null if no additional criteria are needed.</param>
+            <returns>Returns the found element. Null if nothing is found.</returns>
+            <example>Button button = TreeHelper.FindChild&lt;Button&gt;( this, foundChild => foundChild.Focusable );</example>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.Utilities.TreeHelper.IsDescendantOf(System.Windows.DependencyObject,System.Windows.DependencyObject)">
+            <summary>
+            Returns true if the specified element is a child of parent somewhere in the visual 
+            tree. This method will work for Visual, FrameworkElement and FrameworkContentElement.
+            </summary>
+            <param name="element">The element that is potentially a child of the specified parent.</param>
+            <param name="parent">The element that is potentially a parent of the specified element.</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Core.Utilities.TreeHelper.IsDescendantOf(System.Windows.DependencyObject,System.Windows.DependencyObject,System.Boolean)">
+            <summary>
+            Returns true if the specified element is a child of parent somewhere in the visual 
+            tree. This method will work for Visual, FrameworkElement and FrameworkContentElement.
+            </summary>
+            <param name="element">The element that is potentially a child of the specified parent.</param>
+            <param name="parent">The element that is potentially a parent of the specified element.</param>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.Core.Utilities.ValueChangeHelper">
+            <summary>
+            This helper class will raise events when a specific
+            path value on one or many items changes.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.Core.Utilities.ValueChangeHelper.ValueProperty">
+            <summary>
+            This private property serves as the target of a binding that monitors the value of the binding
+            of each item in the source.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.DropDownButton.CloseDropDown(System.Boolean)">
+            <summary>
+            Closes the drop down.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.DropDownButton.RaiseRoutedEvent(System.Windows.RoutedEvent)">
+            <summary>
+            Raises routed events.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.DropDownButton.RaiseCommand">
+            <summary>
+            Raises the command's Execute event.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.DropDownButton.UnhookCommand(System.Windows.Input.ICommand,System.Windows.Input.ICommand)">
+            <summary>
+            Unhooks a command from the Command property.
+            </summary>
+            <param name="oldCommand">The old command.</param>
+            <param name="newCommand">The new command.</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.DropDownButton.HookUpCommand(System.Windows.Input.ICommand,System.Windows.Input.ICommand)">
+            <summary>
+            Hooks up a command to the CanExecuteChnaged event handler.
+            </summary>
+            <param name="oldCommand">The old command.</param>
+            <param name="newCommand">The new command.</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Magnifier.#cctor">
+            <summary>
+            Initializes static members of the <see cref="T:Nequeo.Wpf.Toolkit.Magnifier"/> class.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.MessageBox._button">
+            <summary>
+            Tracks the MessageBoxButon value passed into the InitializeContainer method
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.MessageBox._defaultResult">
+            <summary>
+            Tracks the MessageBoxResult to set as the default and focused button
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.MessageBox._dialogResult">
+            <summary>
+            Will contain the result when the messagebox is shown inside a WindowContainer
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.MessageBox._owner">
+            <summary>
+            Tracks the owner of the MessageBox
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.MessageBox.MessageBoxResult">
+            <summary>
+            Gets the MessageBox result, which is set when the "Closed" event is raised.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.OnApplyTemplate">
+            <summary>
+            Overrides the OnApplyTemplate method.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.Show(System.String)">
+            <summary>
+            Displays a message box that has a message and that returns a result.
+            </summary>
+            <param name="messageText">A System.String that specifies the text to display.</param>
+            <param name="messageBoxStyle">A Style that will be applied to the MessageBox instance.</param>
+            <returns>A System.Windows.MessageBoxResult value that specifies which message box button is clicked by the user.</returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.Show(System.Windows.Window,System.String)">
+            <summary>
+            Displays a message box that has a message and that returns a result.
+            </summary>
+            <param name="owner">A System.Windows.Window that represents the owner of the MessageBox</param>
+            <param name="messageText">A System.String that specifies the text to display.</param>
+            <param name="messageBoxStyle">A Style that will be applied to the MessageBox instance.</param>
+            <returns>A System.Windows.MessageBoxResult value that specifies which message box button is clicked by the user.</returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.Show(System.String,System.String)">
+            <summary>
+            Displays a message box that has a message and title bar caption; and that returns a result.
+            </summary>
+            <param name="messageText">A System.String that specifies the text to display.</param>
+            <param name="caption">A System.String that specifies the title bar caption to display.</param>
+            <returns>A System.Windows.MessageBoxResult value that specifies which message box button is clicked by the user.</returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.Show(System.String,System.String,System.Windows.MessageBoxButton,System.Windows.Style)">
+            <summary>
+            Displays a message box that has a message and that returns a result.
+            </summary>
+            <param name="messageText">A System.String that specifies the text to display.</param>
+            <param name="caption">A System.String that specifies the title bar caption to display.</param>
+            <param name="button">A System.Windows.MessageBoxButton value that specifies which button or buttons to display.</param>
+            <param name="messageBoxStyle">A Style that will be applied to the MessageBox instance.</param>
+            <returns>A System.Windows.MessageBoxResult value that specifies which message box button is clicked by the user.</returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.Show(System.String,System.String,System.Windows.MessageBoxButton,System.Windows.MessageBoxImage,System.Windows.Style)">
+            <summary>
+            Displays a message box that has a message and that returns a result.
+            </summary>
+            <param name="messageText">A System.String that specifies the text to display.</param>
+            <param name="caption">A System.String that specifies the title bar caption to display.</param>
+            <param name="button">A System.Windows.MessageBoxButton value that specifies which button or buttons to display.</param>
+            <param name="image"> A System.Windows.MessageBoxImage value that specifies the icon to display.</param>
+            <param name="messageBoxStyle">A Style that will be applied to the MessageBox instance.</param>
+            <returns>A System.Windows.MessageBoxResult value that specifies which message box button is clicked by the user.</returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.Show(System.String,System.String,System.Windows.MessageBoxButton,System.Windows.MessageBoxImage,System.Windows.MessageBoxResult,System.Windows.Style)">
+            <summary>
+            Displays a message box that has a message and that returns a result.
+            </summary>
+            <param name="messageText">A System.String that specifies the text to display.</param>
+            <param name="caption">A System.String that specifies the title bar caption to display.</param>
+            <param name="button">A System.Windows.MessageBoxButton value that specifies which button or buttons to display.</param>
+            <param name="image"> A System.Windows.MessageBoxImage value that specifies the icon to display.</param>
+            <param name="defaultResult">A System.Windows.MessageBoxResult value that specifies the default result of the MessageBox.</param>
+            <param name="messageBoxStyle">A Style that will be applied to the MessageBox instance.</param>
+            <returns>A System.Windows.MessageBoxResult value that specifies which message box button is clicked by the user.</returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.ShowMessageBox">
+            <summary>
+            Displays this message box when embedded in a WindowContainer parent.
+            Note that this call is not blocking and that you must register to the Closed event in order to handle the dialog result, if any.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.ShowMessageBox(System.String)">
+            <summary>
+            Displays this message box when embedded in a WindowContainer parent.
+            Note that this call is not blocking and that you must register to the Closed event in order to handle the dialog result, if any.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.ShowMessageBox(System.String,System.String)">
+            <summary>
+            Displays this message box when embedded in a WindowContainer parent.
+            Note that this call is not blocking and that you must register to the Closed event in order to handle the dialog result, if any.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.ShowMessageBox(System.String,System.String,System.Windows.MessageBoxButton)">
+            <summary>
+            Displays this message box when embedded in a WindowContainer parent.
+            Note that this call is not blocking and that you must register to the Closed event in order to handle the dialog result, if any.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.ShowMessageBox(System.String,System.String,System.Windows.MessageBoxButton,System.Windows.MessageBoxImage)">
+            <summary>
+            Displays this message box when embedded in a WindowContainer parent.
+            Note that this call is not blocking and that you must register to the Closed event in order to handle the dialog result, if any.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.ShowMessageBox(System.String,System.String,System.Windows.MessageBoxButton,System.Windows.MessageBoxImage,System.Windows.MessageBoxResult)">
+            <summary>
+            Displays this message box when embedded in a WindowContainer parent.
+            Note that this call is not blocking and that you must register to the Closed event in order to handle the dialog result, if any.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.ShowDialog">
+            <summary>
+            Display the MessageBox window and returns only when this MessageBox closes.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.InitializeMessageBox(System.Windows.Window,System.String,System.String,System.Windows.MessageBoxButton,System.Windows.MessageBoxImage,System.Windows.MessageBoxResult)">
+            <summary>
+            Initializes the MessageBox.
+            </summary>
+            <param name="text">The text.</param>
+            <param name="caption">The caption.</param>
+            <param name="button">The button.</param>
+            <param name="image">The image.</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.ChangeVisualState(System.String,System.Boolean)">
+            <summary>
+            Changes the control's visual state(s).
+            </summary>
+            <param name="name">name of the state</param>
+            <param name="useTransitions">True if state transitions should be used.</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.Close">
+            <summary>
+            Closes the MessageBox.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.SetDefaultResult">
+            <summary>
+            Sets the button that represents the _defaultResult to the default button and gives it focus.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.GetDefaultButtonFromDefaultResult">
+            <summary>
+            Gets the default button from the _defaultResult.
+            </summary>
+            <returns>The default button that represents the defaultResult</returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.GetDefaultButton">
+            <summary>
+            Gets the default button.
+            </summary>
+            <remarks>Used when the _defaultResult is set to None</remarks>
+            <returns>The button to use as the default</returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.GetMessageBoxButton(System.String)">
+            <summary>
+            Gets a message box button.
+            </summary>
+            <param name="name">The name of the button to get.</param>
+            <returns>The button</returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.ShowCore(System.Windows.Window,System.String,System.String,System.Windows.MessageBoxButton,System.Windows.MessageBoxImage,System.Windows.MessageBoxResult,System.Windows.Style)">
+            <summary>
+            Shows the MessageBox.
+            </summary>
+            <param name="messageText">The message text.</param>
+            <param name="caption">The caption.</param>
+            <param name="button">The button.</param>
+            <param name="icon">The icon.</param>
+            <param name="defaultResult">The default result.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.SetImageSource(System.Windows.MessageBoxImage)">
+            <summary>
+            Sets the message image source.
+            </summary>
+            <param name="image">The image to show.</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.CreateContainer">
+            <summary>
+            Creates the container which will host the MessageBox control.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.OnHeaderDragDelta(System.Windows.Controls.Primitives.DragDeltaEventArgs)">
+            <summary>
+            Processes the move of a drag operation on the header.
+            </summary>
+            <param name="e">The <see cref="T:System.Windows.Controls.Primitives.DragDeltaEventArgs"/> instance containing the event data.</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.OnHeaderIconDoubleClicked(System.Windows.Input.MouseButtonEventArgs)">
+            <summary>
+            Processes the double-click on the header.
+            </summary>
+            <param name="e">The <see cref="!:System.Windows.Input.Primitives.MouseButtonEventArgs"/> instance containing the event data.</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.OnCloseButtonClicked(System.Windows.RoutedEventArgs)">
+            <summary>
+            Processes the close button click.
+            </summary>
+            <param name="e">The <see cref="T:System.Windows.RoutedEventArgs"/> instance containing the event data.</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.Button_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Sets the MessageBoxResult according to the button pressed and then closes the MessageBox.
+            </summary>
+            <param name="sender">The source of the event.</param>
+            <param name="e">The <see cref="T:System.Windows.RoutedEventArgs"/> instance containing the event data.</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.MessageBox.OnContainerClosed(System.Object,System.EventArgs)">
+            <summary>
+            Callack to the Container.Closed event
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="E:Nequeo.Wpf.Toolkit.MessageBox.Closed">
+            <summary>
+            Occurs when the MessageBox is closed.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.Obselete.MaskedTextBox._isSyncingTextAndValueProperties">
+            <summary>
+            Flags if the Text and Value properties are in the process of being sync'd
+            </summary>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.Primitives.MouseWheelActiveTrigger">
+            <summary>
+            Specify when the mouse wheel is active.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Primitives.Selector.OnSelectedItemsCollectionChanged(System.Object,System.Collections.Specialized.NotifyCollectionChangedEventArgs)">
+            <summary>
+            When SelectedItems collection implements INotifyPropertyChanged, this is the callback.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Primitives.Selector.OnItemsSourceCollectionChanged(System.Object,System.Collections.Specialized.NotifyCollectionChangedEventArgs)">
+            <summary>
+            When the ItemsSource implements INotifyPropertyChanged, this is the change callback.
+            </summary>
+            <param name="sender"></param>
+            <param name="args"></param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Primitives.Selector.OnSelectedMemberPathValuesChanged">
+            <summary>
+            This is called when any value of any item referenced by SelectedMemberPath
+            is modified. This may affect the SelectedItems collection.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Primitives.Selector.OnValueMemberPathValuesChanged">
+            <summary>
+            This is called when any value of any item referenced by ValueMemberPath
+            is modified. This will affect the SelectedValue property
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Primitives.Selector.OnItemSelectionChanged(Nequeo.Wpf.Toolkit.Primitives.ItemSelectionChangedEventArgs)">
+            <summary>
+            This method will be called when the "IsSelected" property of an SelectorItem
+            has been modified.
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Primitives.Selector.UpdateSelectedValue">
+            <summary>
+            Updates the SelectedValue property based on what is present in the SelectedItems property.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Primitives.Selector.UpdateSelectedItem">
+            <summary>
+            Updates the SelectedItem property based on what is present in the SelectedItems property.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Primitives.Selector.UpdateFromSelectedMemberPathValues">
+            <summary>
+            Update the SelectedItems collection based on the values 
+            refered to by the SelectedMemberPath property.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Primitives.Selector.UpdateFromSelectedItems">
+            <summary>
+            Updates the following based on the content of SelectedItems:
+            - All SelectorItems "IsSelected" properties
+            - Values refered to by SelectedMemberPath
+            - SelectedItem property
+            - SelectedValue property
+            Refered to by the SelectedMemberPath property.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Primitives.Selector.RemoveUnavailableSelectedItems">
+            <summary>
+            Removes all items from SelectedItems that are no longer in ItemsSource.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Primitives.Selector.UpdateFromSelectedValue">
+            <summary>
+            Updates the SelectedItems collection based on the content of
+            the SelectedValue property.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.Primitives.UpDownBase`1.PART_TextBox">
+            <summary>
+            Name constant for Text template part.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.Primitives.UpDownBase`1.PART_Spinner">
+            <summary>
+            Name constant for Spinner template part.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.Primitives.UpDownBase`1._isSyncingTextAndValueProperties">
+            <summary>
+            Flags if the Text and Value properties are in the process of being sync'd
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.Primitives.UpDownBase`1.MouseWheelActiveTriggerProperty">
+            <summary>
+            Identifies the MouseWheelActiveTrigger dependency property
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.Primitives.UpDownBase`1.MouseWheelActiveTrigger">
+            <summary>
+            Get or set when the mouse wheel event should affect the value.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Primitives.UpDownBase`1.DoDecrement">
+            <summary>
+            Performs an increment if conditions allow it.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Primitives.UpDownBase`1.DoIncrement">
+            <summary>
+            Performs a decrement if conditions allow it.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Primitives.UpDownBase`1.ConvertTextToValue(System.String)">
+            <summary>
+            Converts the formatted text to a value.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Primitives.UpDownBase`1.ConvertValueToText">
+            <summary>
+            Converts the value to formatted text.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Primitives.UpDownBase`1.OnIncrement">
+            <summary>
+            Called by OnSpin when the spin direction is SpinDirection.Increase.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Primitives.UpDownBase`1.OnDecrement">
+            <summary>
+            Called by OnSpin when the spin direction is SpinDirection.Descrease.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Primitives.UpDownBase`1.SetValidSpinDirection">
+            <summary>
+            Sets the valid spin directions.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.Primitives.WindowContainer.ModalBackgroundBrushProperty">
+            <summary>
+            Identifies the ModalBackgroundBrush dependency property.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.Primitives.WindowContainer.ModalBackgroundBrush">
+            <summary>
+            When using a modal window in the WindowContainer, a ModalBackgroundBrush can be set
+            for the WindowContainer.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Primitives.WindowContainer.MeasureOverride(System.Windows.Size)">
+            <summary>
+            Measure the size of the WindowContainer based on its children.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.Primitives.WindowContainer.OnVisualChildrenChanged(System.Windows.DependencyObject,System.Windows.DependencyObject)">
+            <summary>
+            Register and unregister to children events.
+            </summary>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.PropertyGrid.Attributes.NewItemTypesAttribute">
+            <summary>
+            This attribute can decorate the collection properties (i.e., IList) 
+            of your selected object in order to control the types that will be allowed
+            to be instantiated in the CollectionControl.
+            </summary>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.PropertyGrid.Converters.EditorTimeSpanConverter">
+            <summary>
+            Converts a TimeSpan value to a DateTime value.
+            
+            This converter can be used in conjunction with a TimePicker in order 
+            to create a TimeSpan edit control. 
+            </summary>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.PropertyGrid.CustomPropertyItem">
+            <summary>
+            Used when properties are provided using a list source of items (eg. Properties or PropertiesSource). 
+            
+            An instance of this class can be used as an item to easily customize the 
+            display of the property directly by modifying the values of this class 
+            (e.g., DisplayName, value, Category, etc.).
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.PropertyGrid.EditorDefinition.EditorTemplate">
+            <summary>
+            Gets or sets the template of the editor.
+            This Property is part of the obsolete EditorDefinition class.
+            Use EditorTemplateDefinition class and the Edit<b>ing</b>Template property.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.PropertyGrid.EditorDefinition.PropertiesDefinitions">
+            <summary>
+            List the PropertyDefinitions that identify the properties targeted by the EditorTemplate.
+            This Property is part of the obsolete EditorDefinition class.
+            Use "EditorTemplateDefinition" class and the "TargetProperties" property<br/>
+            XAML Ex.: &lt;t:EditorTemplateDefinition TargetProperties="FirstName,LastName" .../&gt;
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.PropertyGrid.PropertyGrid.PropertyContainerStyleProperty">
+            <summary>
+            Identifies the PropertyContainerStyle dependency property
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.PropertyGrid.PropertyGrid.PropertyContainerStyle">
+            <summary>
+            Gets or sets the style that will be applied to all PropertyItemBase instances displayed in the property grid.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.PropertyGrid.PropertyGrid.SelectedPropertyProperty">
+            <summary>
+            Identifies the SelectedProperty dependency property
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.PropertyGrid.PropertyGrid.SelectedProperty">
+            <summary>
+            Gets or sets the selected property or returns null if the selection is empty.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.PropertyGrid.PropertyGrid.CreateFilter(System.String)">
+            <summary>
+            Override this call to control the filter applied based on the
+            text input.
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.PropertyGrid.PropertyGrid.Update">
+            <summary>
+            Updates all property values in the PropertyGrid with the data from the SelectedObject
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.PropertyGrid.PropertyGrid.PreparePropertyItemEvent">
+            <summary>
+            Identifies the PreparePropertyItem event.
+            This attached routed event may be raised by the PropertyGrid itself or by a
+            PropertyItemBase containing sub-items.
+            </summary>
+        </member>
+        <member name="E:Nequeo.Wpf.Toolkit.PropertyGrid.PropertyGrid.PreparePropertyItem">
+            <summary>
+            This event is raised when a property item is about to be displayed in the PropertyGrid.
+            This allow the user to customize the property item just before it is displayed.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.PropertyGrid.PropertyGrid.AddPreparePropertyItemHandler(System.Windows.UIElement,Nequeo.Wpf.Toolkit.PropertyGrid.PropertyItemEventHandler)">
+            <summary>
+            Adds a handler for the PreparePropertyItem attached event
+            </summary>
+            <param name="element">the element to attach the handler</param>
+            <param name="handler">the handler for the event</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.PropertyGrid.PropertyGrid.RemovePreparePropertyItemHandler(System.Windows.UIElement,Nequeo.Wpf.Toolkit.PropertyGrid.PropertyItemEventHandler)">
+            <summary>
+            Removes a handler for the PreparePropertyItem attached event
+            </summary>
+            <param name="element">the element to attach the handler</param>
+            <param name="handler">the handler for the event</param>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.PropertyGrid.PropertyGrid.ClearPropertyItemEvent">
+            <summary>
+            Identifies the ClearPropertyItem event.
+            This attached routed event may be raised by the PropertyGrid itself or by a
+            PropertyItemBase containing sub items.
+            </summary>
+        </member>
+        <member name="E:Nequeo.Wpf.Toolkit.PropertyGrid.PropertyGrid.ClearPropertyItem">
+            <summary>
+            This event is raised when an property item is about to be remove from the display in the PropertyGrid
+            This allow the user to remove any attached handler in the PreparePropertyItem event.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.PropertyGrid.PropertyGrid.AddClearPropertyItemHandler(System.Windows.UIElement,Nequeo.Wpf.Toolkit.PropertyGrid.PropertyItemEventHandler)">
+            <summary>
+            Adds a handler for the ClearPropertyItem attached event
+            </summary>
+            <param name="element">the element to attach the handler</param>
+            <param name="handler">the handler for the event</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.PropertyGrid.PropertyGrid.RemoveClearPropertyItemHandler(System.Windows.UIElement,Nequeo.Wpf.Toolkit.PropertyGrid.PropertyItemEventHandler)">
+            <summary>
+            Removes a handler for the ClearPropertyItem attached event
+            </summary>
+            <param name="element">the element to attach the handler</param>
+            <param name="handler">the handler for the event</param>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.PropertyGrid.PropertyItem.IsReadOnlyProperty">
+            <summary>
+            Identifies the IsReadOnly dependency property
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.PropertyGrid.PropertyItemBase.ParentElement">
+            <summary>
+            Gets the parent property grid element of this property.
+            A PropertyItemBase instance if this is a sub-element, 
+            or the PropertyGrid itself if this is a first-level property.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.PropertyGrid.PropertyItemBase.PropertyContainerStyle">
+            <summary>
+            Get the PropertyContainerStyle for sub items of this property.
+            It return the value defined on PropertyGrid.PropertyContainerStyle.
+            </summary>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.PropertyGrid.PropertyItemsControl">
+            <summary>
+            This Control is intended to be used in the template of the 
+            PropertyItemBase and PropertyGrid classes to contain the
+            sub-children properties.
+            </summary>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.PropertyGrid.TargetPropertyType">
+            <summary>
+            This class is intended to provide the "Type" target
+            for property definitions or editor definitions when
+            using Property Element Syntax.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.RangeSlider.HigherRangeBackgroundProperty">
+            <summary>
+            # TODODOC
+            Get/Set the Brush for the Range between higher/maximum values. (Brush)
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.RangeSlider.HigherRangeStyleProperty">
+            <summary>
+            # TODODOC
+            Get/Set the Style for the Range between Higher/Maximum values. (Style)
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.RangeSlider.HigherRangeWidthPropertyKey">
+            <summary>
+            # TODODOC          
+            
+            HigherRangeWidth property is a readonly property, used to calculate the percentage of the  HigherRange within the entire min/max range.
+            </summary>
+            
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.RangeSlider.HigherThumbBackgroundProperty">
+            <summary>
+            # TODODOC
+            Get/Set the Brush for the HigherValue thumb back of the icons [active state]. (Brush)
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.RangeSlider.HigherValueProperty">
+            <summary>
+            # TODODOC          
+            
+            HigherValue property represents the higher value within the selected range.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.RangeSlider.LowerRangeBackgroundProperty">
+            <summary>
+            # TODODOC
+            Get/Set the Brush for the Range between minimum/lower values . (Brush)
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.RangeSlider.LowerRangeStyleProperty">
+            <summary>
+            # TODODOC
+            Get/Set the Style for the Range between Minimum/Lower values. (Style)
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.RangeSlider.LowerRangeWidthPropertyKey">
+            <summary>
+            # TODODOC          
+            
+            LowerRangeWidth property is a readonly property, used to calculate the percentage of the  LowerRange, within the entire min/max range.
+            </summary>
+            
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.RangeSlider.LowerThumbBackgroundProperty">
+            <summary>
+            # TODODOC          
+            Get/Set the Brush for the LowerValue thumb back of the icons [active state]. (Brush)
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.RangeSlider.LowerValueProperty">
+            <summary>
+            # TODODOC          
+            LowerValue property represents the lower value within the selected range.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.RangeSlider.MaximumProperty">
+            <summary>
+            # TODODOC          
+            Maximum property represents the maximum value, which can be selected, in a range.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.RangeSlider.MinimumProperty">
+            <summary>
+            //#TODODOC          
+            Minimum property represents the minimum value, which can be selected, in a range.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.RangeSlider.OrientationProperty">
+            <summary>
+            # TODODOC
+            Get/Set the RangeSlider orientation.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.RangeSlider.RangeBackgroundProperty">
+            <summary>
+            # TODODOC
+            Get/Set the Brush for the Range between lower/higher values [active state]. (Brush)
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.RangeSlider.RangeStyleProperty">
+            <summary>
+            # TODODOC
+            Get/Set the Style for the Range between Lower/Higher values. (Style)
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.RangeSlider.RangeWidthPropertyKey">
+            <summary>
+            # TODODOC          
+            
+            RangeWidth property is a readonly property, used to calculate the percentage of the range within the entire min/max range.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.RangeSlider.StepProperty">
+            <summary>
+            # TODODOC          
+            
+            Step property is used to identify the RangeSlider's size of individual move, while clicking on the LowerRange, HigherRange, not while scrolling the thumbs.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.IRichTextBoxFormatBar.Target">
+            <summary>
+            Represents the RichTextBox that will be the target for all text manipulations in the format bar.
+            </summary>
+        </member>
+        <member name="P:Nequeo.Wpf.Toolkit.IRichTextBoxFormatBar.PreventDisplayFadeOut">
+            <summary>
+            Represents the property that will be used to know if the formatBar should fade when mouse goes away.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.IRichTextBoxFormatBar.Update">
+            <summary>
+            Represents the Method that will be used to update the format bar values based on the Selection.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.RichTextBoxFormatBar.UpdateSelectionListType">
+            <summary>
+            Updates the visual state of the List styles, such as Numbers and Bullets.
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.RichTextBoxFormatBar.BothSelectionListsAreChecked">
+            <summary>
+            Checks to see if both selection lists are checked. (Bullets and Numbers)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.RichTextBoxFormatBarManager.AttachFormatBarToRichtextBox(System.Windows.Controls.RichTextBox,Nequeo.Wpf.Toolkit.IRichTextBoxFormatBar)">
+            <summary>
+            Attaches a FormatBar to a RichtextBox
+            </summary>
+            <param name="richTextBox">The RichtextBox to attach to.</param>
+            <param name="formatBar">The Formatbar to attach.</param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.RichTextBoxFormatBarManager.ShowAdorner">
+            <summary>
+            Shows the FormatBar
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.RichTextBoxFormatBarManager.PositionFormatBar(System.Windows.Controls.Control)">
+            <summary>
+            Positions the FormatBar so that is does not go outside the bounds of the RichTextBox or covers the selected text
+            </summary>
+            <param name="adorningEditor"></param>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.RichTextBoxFormatBarManager.VerifyAdornerLayer">
+            <summary>
+            Ensures that the IRichTextFormatBar is in the adorner layer.
+            </summary>
+            <returns>True if the IRichTextFormatBar is in the adorner layer, else false.</returns>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.RichTextBoxFormatBarManager.HideAdorner">
+            <summary>
+            Hides the IRichTextFormatBar that is in the adornor layer.
+            </summary>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.PlainTextFormatter">
+            <summary>
+            Formats the RichTextBox text as plain text
+            </summary>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.RtfFormatter">
+            <summary>
+            Formats the RichTextBox text as RTF
+            </summary>
+        </member>
+        <member name="T:Nequeo.Wpf.Toolkit.XamlFormatter">
+            <summary>
+            Formats the RichTextBox text as Xaml
+            </summary>
+        </member>
+        <member name="M:Nequeo.Wpf.Toolkit.RichTextBox.Clear">
+            <summary>
+            Clears the content of the RichTextBox.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.Wizard.NextEvent">
+            <summary>
+            Identifies the Next routed event.
+            </summary>
+        </member>
+        <member name="E:Nequeo.Wpf.Toolkit.Wizard.Next">
+            <summary>
+            Raised when WizardCommands.NextPage command is executed.
+            This cancellable event can prevent the command execution from continuing.
+            </summary>
+        </member>
+        <member name="F:Nequeo.Wpf.Toolkit.Wizard.PreviousEvent">
+            <summary>
+            Identifies the Previous routed event.
+            </summary>
+        </member>
+        <member name="E:Nequeo.Wpf.Toolkit.Wizard.Previous">
+            <summary>
+            Raised when WizardCommands.PreviousPage command is executed.
+            This cancellable event can prevent the command execution from continuing.
+            </summary>
+        </member>
+        <member name="T:XamlGeneratedNamespace.GeneratedInternalTypeHelper">
+            <summary>
+            GeneratedInternalTypeHelper
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateInstance(System.Type,System.Globalization.CultureInfo)">
+            <summary>
+            CreateInstance
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.GetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            GetPropertyValue
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.SetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            SetPropertyValue
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateDelegate(System.Type,System.Object,System.String)">
+            <summary>
+            CreateDelegate
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.AddEventHandler(System.Reflection.EventInfo,System.Object,System.Delegate)">
+            <summary>
+            AddEventHandler
+            </summary>
+        </member>
+    </members>
+</doc>

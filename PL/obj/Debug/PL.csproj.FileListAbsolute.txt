@@ -1,0 +1,868 @@
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\PL.exe.config
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\PL.exe
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\PL.pdb
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\BE.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\BL.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\BE.pdb
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\BL.pdb
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\PL.g.resources
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\PL.exe
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\PL.pdb
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\App.g.cs
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\FallsImagesUC.g.cs
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\GoogleMapsUC.g.cs
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\ImageWpf.g.cs
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\MainWindow.g.cs
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\FallsImagesUC.baml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\GoogleMapsUC.baml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\ImageWpf.baml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\MainWindow.baml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\LiveCharts.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\LiveCharts.pdb
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\LiveCharts.xml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\MainWindow1.g.cs
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\MainWindow1.baml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\ChartUC.g.cs
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\ChartUC.baml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\GeoLocationAutoComplete.g.cs
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\ActionButton.g.cs
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\NewReportUC.g.cs
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\AjaxControlToolkit.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\Hangfire.Core.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\MaterialDesignColors.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\Nequeo.Wpf.Toolkit.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\Owin.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\WpfControls.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\WPFTextBoxAutoComplete.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\Hangfire.Core.xml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.Validation.pdb
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\Nequeo.Wpf.Toolkit.xml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\WpfControls.xml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\WPFTextBoxAutoComplete.pdb
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\es\Hangfire.Core.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\nl\Hangfire.Core.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\pt-BR\Hangfire.Core.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\zh\Hangfire.Core.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\zh-TW\Hangfire.Core.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\ActionButton.baml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\GeoLocationAutoComplete.baml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\NewReportUC.baml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\App.baml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\Castle.Core.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\NSubstitute.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\Castle.Core.xml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\NSubstitute.xml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\NewFallUC.g.cs
+C:\Users\litalush\source\repos\ConsoleApp1\PL\obj\Debug\NewFallUC.baml
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\PL.exe.config
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\PL.exe
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\PL.pdb
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\AjaxControlToolkit.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\BE.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\BL.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Castle.Core.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Hangfire.Core.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\LiveCharts.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\MaterialDesignColors.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Nequeo.Wpf.Toolkit.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\NSubstitute.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Owin.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\WpfControls.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\WPFTextBoxAutoComplete.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\DAL.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Geocoding.Microsoft.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\ExifLib.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Geocoding.Core.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\BE.pdb
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\BL.pdb
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\BL.dll.config
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Castle.Core.xml
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Hangfire.Core.xml
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\LiveCharts.pdb
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\LiveCharts.xml
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.Validation.pdb
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Nequeo.Wpf.Toolkit.xml
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\NSubstitute.xml
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\WpfControls.xml
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\WPFTextBoxAutoComplete.pdb
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\DAL.pdb
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\DAL.dll.config
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\es\Hangfire.Core.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\nl\Hangfire.Core.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\pt-BR\Hangfire.Core.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\zh\Hangfire.Core.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\zh-TW\Hangfire.Core.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\ActionButton.g.cs
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\ChartUC.g.cs
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\FallsImagesUC.g.cs
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\GeoLocationAutoComplete.g.cs
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\GoogleMapsUC.g.cs
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\ImageWpf.g.cs
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\MainWindow1.g.cs
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\NewFallUC.g.cs
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\NewReportUC.g.cs
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\App.g.cs
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\App.baml
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\ActionButton.baml
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\ChartUC.baml
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\FallsImagesUC.baml
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\GeoLocationAutoComplete.baml
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\GoogleMapsUC.baml
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\ImageWpf.baml
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\MainWindow.baml
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\MainWindow1.baml
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\NewFallUC.baml
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\NewReportUC.baml
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\PL.g.resources
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\PL.exe
+C:\Users\1\Desktop\ConsoleApp1\PL\obj\Debug\PL.pdb
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\BE.dll.config
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\1\Desktop\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ActionButton.g.cs
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ChartUC.g.cs
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\FallsImagesUC.g.cs
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\GeoLocationAutoComplete.g.cs
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\GoogleMapsUC.g.cs
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ImageWpf.g.cs
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\MainWindow.g.cs
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\MainWindow1.g.cs
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\NewFallUC.g.cs
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\NewReportUC.g.cs
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\App.g.cs
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.exe
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.pdb
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\PL.exe.config
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\PL.exe
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\PL.pdb
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\AjaxControlToolkit.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\BE.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\BL.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Castle.Core.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\EntityFramework.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Hangfire.Core.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\LiveCharts.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\MaterialDesignColors.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Nequeo.Wpf.Toolkit.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\NSubstitute.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Owin.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\WpfControls.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\WPFTextBoxAutoComplete.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\DAL.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Geocoding.Microsoft.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\ExifLib.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Geocoding.Core.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\BE.pdb
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\BE.dll.config
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\BL.pdb
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\BL.dll.config
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Castle.Core.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\EntityFramework.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Hangfire.Core.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\LiveCharts.pdb
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\LiveCharts.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.Validation.pdb
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Nequeo.Wpf.Toolkit.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\NSubstitute.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\WpfControls.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\WPFTextBoxAutoComplete.pdb
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\DAL.pdb
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\DAL.dll.config
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\es\Hangfire.Core.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\nl\Hangfire.Core.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\pt-BR\Hangfire.Core.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\zh\Hangfire.Core.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\zh-TW\Hangfire.Core.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\App.baml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ActionButton.baml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ChartUC.baml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\FallsImagesUC.baml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\GeoLocationAutoComplete.baml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\GoogleMapsUC.baml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ImageWpf.baml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\MainWindow.baml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\MainWindow1.baml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\NewFallUC.baml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\NewReportUC.baml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.g.resources
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\GraphUC.g.cs
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\GraphUC.baml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\StatisticsUC.g.cs
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\StatisticsUC.baml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ExtraFieldsFall.g.cs
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\FallUC.g.cs
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ExtraFieldsFall.baml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\FallUC.baml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL_Content.g.cs
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ActionButton.g.cs
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ChartUC.g.cs
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ExtraFieldsFall.g.cs
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\FallsImagesUC.g.cs
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\FallUC.g.cs
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\GeoLocationAutoComplete.g.cs
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\GoogleMapsUC.g.cs
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\GraphUC.g.cs
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ImageWpf.g.cs
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\MainWindow.g.cs
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\MainWindow1.g.cs
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\NewFallUC.g.cs
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\NewReportUC.g.cs
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\StatisticsUC.g.cs
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\App.g.cs
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL_Content.g.cs
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.exe
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.pdb
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\PL.exe.config
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\PL.exe
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\PL.pdb
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\AjaxControlToolkit.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\BE.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\BL.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Castle.Core.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\EntityFramework.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Hangfire.Core.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\LiveCharts.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\MaterialDesignColors.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Nequeo.Wpf.Toolkit.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\NSubstitute.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Owin.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\WpfControls.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\WPFTextBoxAutoComplete.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\DAL.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Geocoding.Microsoft.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\ExifLib.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Geocoding.Core.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\BE.pdb
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\BE.dll.config
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\BL.pdb
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\BL.dll.config
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Castle.Core.xml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\EntityFramework.xml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Hangfire.Core.xml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\LiveCharts.pdb
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\LiveCharts.xml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.Validation.pdb
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Nequeo.Wpf.Toolkit.xml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\NSubstitute.xml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\WpfControls.xml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\WPFTextBoxAutoComplete.pdb
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\DAL.pdb
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\DAL.dll.config
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\es\Hangfire.Core.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\nl\Hangfire.Core.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\pt-BR\Hangfire.Core.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\zh\Hangfire.Core.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\zh-TW\Hangfire.Core.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\App.baml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ActionButton.baml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ChartUC.baml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ExtraFieldsFall.baml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\FallsImagesUC.baml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\FallUC.baml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\GeoLocationAutoComplete.baml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\GoogleMapsUC.baml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\GraphUC.baml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ImageWpf.baml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\MainWindow.baml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\MainWindow1.baml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\NewFallUC.baml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\NewReportUC.baml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\StatisticsUC.baml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.g.resources
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ActionButton.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ChartUC.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ExtraFieldsFall.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\FallsImagesUC.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\FallUC.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\GeoLocationAutoComplete.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\GoogleMapsUC.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\GraphUC.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ImageWpf.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\MainWindow.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\NewFallUC.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\NewReportUC.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\StatisticsUC.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\App.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL_Content.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.exe
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\PL.exe.config
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\PL.exe
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\PL.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\AjaxControlToolkit.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\BE.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\BL.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Castle.Core.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\EntityFramework.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Hangfire.Core.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\LiveCharts.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\MaterialDesignColors.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Nequeo.Wpf.Toolkit.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\NSubstitute.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Owin.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\WpfControls.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\WPFTextBoxAutoComplete.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\DAL.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Geocoding.Microsoft.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\ExifLib.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Geocoding.Core.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\BE.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\BE.dll.config
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\BL.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\BL.dll.config
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Castle.Core.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\EntityFramework.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Hangfire.Core.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\LiveCharts.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\LiveCharts.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.Validation.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Nequeo.Wpf.Toolkit.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\NSubstitute.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\WpfControls.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\WPFTextBoxAutoComplete.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\DAL.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\DAL.dll.config
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\es\Hangfire.Core.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\nl\Hangfire.Core.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\pt-BR\Hangfire.Core.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\zh\Hangfire.Core.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\zh-TW\Hangfire.Core.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\App.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ActionButton.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ChartUC.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ExtraFieldsFall.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\FallsImagesUC.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\FallUC.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\GeoLocationAutoComplete.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\GoogleMapsUC.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\GraphUC.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\ImageWpf.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\MainWindow.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\NewFallUC.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\NewReportUC.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\StatisticsUC.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.g.resources
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\PL.exe.config
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\PL.exe
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\PL.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\AjaxControlToolkit.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\BE.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\BL.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Castle.Core.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\EntityFramework.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Hangfire.Core.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\LiveCharts.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\MaterialDesignColors.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Nequeo.Wpf.Toolkit.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\NSubstitute.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Owin.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\WpfControls.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\WPFTextBoxAutoComplete.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\DAL.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Geocoding.Microsoft.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\ExifLib.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Geocoding.Core.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\BE.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\BE.dll.config
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\BL.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\BL.dll.config
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Castle.Core.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\EntityFramework.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Hangfire.Core.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\LiveCharts.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\LiveCharts.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Microsoft.VisualStudio.Validation.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Nequeo.Wpf.Toolkit.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\NSubstitute.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\WpfControls.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\WPFTextBoxAutoComplete.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\DAL.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\DAL.dll.config
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\es\Hangfire.Core.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\nl\Hangfire.Core.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\pt-BR\Hangfire.Core.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\zh\Hangfire.Core.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\zh-TW\Hangfire.Core.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\ActionButton.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\ChartUC.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\ExtraFieldsFall.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\FallsImagesUC.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\FallUC.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\GeoLocationAutoComplete.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\GoogleMapsUC.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\GraphUC.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\ImageWpf.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\MainWindow.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\NewFallUC.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\NewReportUC.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\StatisticsUC.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\App.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\PL_Content.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\App.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\ActionButton.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\ChartUC.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\ExtraFieldsFall.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\FallsImagesUC.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\FallUC.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\GeoLocationAutoComplete.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\GoogleMapsUC.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\GraphUC.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\ImageWpf.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\MainWindow.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\NewFallUC.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\NewReportUC.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\StatisticsUC.baml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\PL.g.resources
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\PL.exe
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\PL\obj\Debug\PL.pdb
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\PL.exe.config
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\PL.exe
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\PL.pdb
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\AjaxControlToolkit.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\BE.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\BL.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Castle.Core.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\EntityFramework.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Hangfire.Core.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\LiveCharts.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\MaterialDesignColors.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Nequeo.Wpf.Toolkit.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\NSubstitute.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Owin.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\WpfControls.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\WPFTextBoxAutoComplete.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\DAL.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Geocoding.Microsoft.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\ExifLib.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Geocoding.Core.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\BE.pdb
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\BE.dll.config
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\BL.pdb
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\BL.dll.config
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Castle.Core.xml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\EntityFramework.xml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Hangfire.Core.xml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\LiveCharts.pdb
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\LiveCharts.xml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Microsoft.VisualStudio.Validation.pdb
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Nequeo.Wpf.Toolkit.xml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\NSubstitute.xml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\WpfControls.xml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\WPFTextBoxAutoComplete.pdb
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\DAL.pdb
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\DAL.dll.config
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\es\Hangfire.Core.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\nl\Hangfire.Core.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\pt-BR\Hangfire.Core.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\zh\Hangfire.Core.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\zh-TW\Hangfire.Core.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\ActionButton.g.cs
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\ChartUC.g.cs
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\ExtraFieldsFall.g.cs
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\FallsImagesUC.g.cs
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\FallUC.g.cs
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\GeoLocationAutoComplete.g.cs
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\GoogleMapsUC.g.cs
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\GraphUC.g.cs
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\ImageWpf.g.cs
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\MainWindow.g.cs
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\NewFallUC.g.cs
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\NewReportUC.g.cs
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\StatisticsUC.g.cs
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\App.g.cs
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\PL_Content.g.cs
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\App.baml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\ActionButton.baml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\ChartUC.baml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\ExtraFieldsFall.baml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\FallsImagesUC.baml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\FallUC.baml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\GeoLocationAutoComplete.baml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\GoogleMapsUC.baml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\GraphUC.baml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\ImageWpf.baml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\MainWindow.baml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\NewFallUC.baml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\NewReportUC.baml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\StatisticsUC.baml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\PL.g.resources
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\PL.exe
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\PL\obj\Debug\PL.pdb

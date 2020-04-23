@@ -1,0 +1,95 @@
+C:\Users\litalush\source\repos\ConsoleApp1\BE\bin\Debug\BE.dll
+C:\Users\litalush\source\repos\ConsoleApp1\BE\bin\Debug\BE.pdb
+C:\Users\litalush\source\repos\ConsoleApp1\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\litalush\source\repos\ConsoleApp1\BE\obj\Debug\BE.dll
+C:\Users\litalush\source\repos\ConsoleApp1\BE\obj\Debug\BE.pdb
+C:\Users\litalush\source\repos\ConsoleApp1\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\litalush\source\repos\ConsoleApp1\BE\bin\Debug\Elasticsearch.Net.dll
+C:\Users\litalush\source\repos\ConsoleApp1\BE\bin\Debug\Nest.dll
+C:\Users\litalush\source\repos\ConsoleApp1\BE\bin\Debug\System.Buffers.dll
+C:\Users\litalush\source\repos\ConsoleApp1\BE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\litalush\source\repos\ConsoleApp1\BE\bin\Debug\Elasticsearch.Net.xml
+C:\Users\litalush\source\repos\ConsoleApp1\BE\bin\Debug\Nest.xml
+C:\Users\litalush\source\repos\ConsoleApp1\BE\bin\Debug\System.Buffers.xml
+C:\Users\litalush\source\repos\ConsoleApp1\BE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\litalush\source\repos\ConsoleApp1\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\1\Desktop\ConsoleApp1\BE\bin\Debug\BE.dll
+C:\Users\1\Desktop\ConsoleApp1\BE\bin\Debug\BE.pdb
+C:\Users\1\Desktop\ConsoleApp1\BE\bin\Debug\Elasticsearch.Net.dll
+C:\Users\1\Desktop\ConsoleApp1\BE\bin\Debug\Nest.dll
+C:\Users\1\Desktop\ConsoleApp1\BE\bin\Debug\System.Buffers.dll
+C:\Users\1\Desktop\ConsoleApp1\BE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1\Desktop\ConsoleApp1\BE\bin\Debug\Elasticsearch.Net.xml
+C:\Users\1\Desktop\ConsoleApp1\BE\bin\Debug\Nest.xml
+C:\Users\1\Desktop\ConsoleApp1\BE\bin\Debug\System.Buffers.xml
+C:\Users\1\Desktop\ConsoleApp1\BE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\1\Desktop\ConsoleApp1\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\1\Desktop\ConsoleApp1\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ConsoleApp1\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\1\Desktop\ConsoleApp1\BE\obj\Debug\BE.dll
+C:\Users\1\Desktop\ConsoleApp1\BE\obj\Debug\BE.pdb
+C:\Users\1\Desktop\ConsoleApp1\BE\bin\Debug\BE.dll.config
+C:\Users\1\Desktop\ConsoleApp1\BE\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\ConsoleApp1\BE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\ConsoleApp1\BE\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\ConsoleApp1\BE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\BE.dll.config
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\BE.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\BE.pdb
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\Elasticsearch.Net.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\EntityFramework.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\Nest.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\System.Buffers.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\Elasticsearch.Net.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\EntityFramework.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\Nest.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\System.Buffers.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BE\obj\Debug\BE.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BE\obj\Debug\BE.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\BE.dll.config
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\BE.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\BE.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\Elasticsearch.Net.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\EntityFramework.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\Nest.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\System.Buffers.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\Elasticsearch.Net.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\EntityFramework.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\Nest.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\System.Buffers.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BE\obj\Debug\BE.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BE\obj\Debug\BE.pdb
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\BE\bin\Debug\BE.dll.config
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\BE\bin\Debug\BE.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\BE\bin\Debug\BE.pdb
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\BE\bin\Debug\Elasticsearch.Net.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\BE\bin\Debug\EntityFramework.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\BE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\BE\bin\Debug\Nest.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\BE\bin\Debug\System.Buffers.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\BE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\BE\bin\Debug\Elasticsearch.Net.xml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\BE\bin\Debug\EntityFramework.xml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\BE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\BE\bin\Debug\Nest.xml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\BE\bin\Debug\System.Buffers.xml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\BE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\BE\obj\Debug\BE.dll
+C:\Users\litalush\Downloads\LocateMissileFallProject-master\LocateMissileFallProject-master\BE\obj\Debug\BE.pdb
